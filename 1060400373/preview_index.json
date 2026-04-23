@@ -1,32 +1,8 @@
 {
   "qq_number": "1010024897",
   "group_number": "1060400373",
-  "updated_at": "2026-04-23T15:51:27.329519",
+  "updated_at": "2026-04-23T15:52:36.605924",
   "skins": [
-    {
-      "name": "拂页蝶の满赠——moa甜心芭乐②",
-      "file": "拂页蝶の甜心芭乐彩底②.bds",
-      "thumb": "拂页蝶の甜心芭乐彩底②.bds_py_26_light_thumb.png",
-      "full": "拂页蝶の甜心芭乐彩底②.bds_py_26_light.png"
-    },
-    {
-      "name": "拂页蝶の满赠——moa甜心芭乐①",
-      "file": "拂页蝶の甜心芭乐彩底①.bds",
-      "thumb": "拂页蝶の甜心芭乐彩底①.bds_py_26_light_thumb.png",
-      "full": "拂页蝶の甜心芭乐彩底①.bds_py_26_light.png"
-    },
-    {
-      "name": "拂页蝶の朦胧单色满赠有动效",
-      "file": "拂页蝶の朦胧满赠礼有动效彩底.bds",
-      "thumb": "拂页蝶の朦胧满赠礼有动效彩底.bds_py_26_default_thumb.png",
-      "full": "拂页蝶の朦胧满赠礼有动效彩底.bds_py_26_default.png"
-    },
-    {
-      "name": "拂页蝶の朦胧单色满赠无动效",
-      "file": "拂页蝶の朦胧安卓无动效彩底.bds",
-      "thumb": "拂页蝶の朦胧安卓无动效彩底.bds_py_26_default_thumb.png",
-      "full": "拂页蝶の朦胧安卓无动效彩底.bds_py_26_default.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "拂页蝶の甜心芭乐彩底②.bdi",
@@ -74,6 +50,30 @@
       "file": "拂页蝶の甜心芭乐融合①.bdi",
       "thumb": "拂页蝶の甜心芭乐融合①.bdi_py_26_light_thumb.png",
       "full": "拂页蝶の甜心芭乐融合①.bdi_py_26_light.png"
+    },
+    {
+      "name": "拂页蝶の满赠——moa甜心芭乐②",
+      "file": "拂页蝶の甜心芭乐彩底②.bds",
+      "thumb": "拂页蝶の甜心芭乐彩底②.bds_py_26_light_thumb.png",
+      "full": "拂页蝶の甜心芭乐彩底②.bds_py_26_light.png"
+    },
+    {
+      "name": "拂页蝶の满赠——moa甜心芭乐①",
+      "file": "拂页蝶の甜心芭乐彩底①.bds",
+      "thumb": "拂页蝶の甜心芭乐彩底①.bds_py_26_light_thumb.png",
+      "full": "拂页蝶の甜心芭乐彩底①.bds_py_26_light.png"
+    },
+    {
+      "name": "拂页蝶の朦胧单色满赠有动效",
+      "file": "拂页蝶の朦胧满赠礼有动效彩底.bds",
+      "thumb": "拂页蝶の朦胧满赠礼有动效彩底.bds_py_26_default_thumb.png",
+      "full": "拂页蝶の朦胧满赠礼有动效彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "拂页蝶の朦胧单色满赠无动效",
+      "file": "拂页蝶の朦胧安卓无动效彩底.bds",
+      "thumb": "拂页蝶の朦胧安卓无动效彩底.bds_py_26_default_thumb.png",
+      "full": "拂页蝶の朦胧安卓无动效彩底.bds_py_26_default.png"
     }
   ]
 }

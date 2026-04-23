@@ -1,44 +1,8 @@
 {
   "qq_number": "1010024897",
   "group_number": "1050088081",
-  "updated_at": "2026-04-23T15:38:35.148656",
+  "updated_at": "2026-04-23T15:42:47.776178",
   "skins": [
-    {
-      "name": "拂页蝶の没擦的黑板",
-      "file": "拂页蝶の没擦的黑板-弧形底.bdi",
-      "thumb": "拂页蝶の没擦的黑板-弧形底.bdi_py_26_default_thumb.png",
-      "full": "拂页蝶の没擦的黑板-弧形底.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的铃儿响叮当（脆脆）",
-      "file": "爹的铃儿响叮当脆脆.bdi",
-      "thumb": "爹的铃儿响叮当脆脆.bdi_py_26_light_thumb.png",
-      "full": "爹的铃儿响叮当脆脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的铃儿响叮当（闷闷）",
-      "file": "爹的铃儿响叮当闷闷.bdi",
-      "thumb": "爹的铃儿响叮当闷闷.bdi_py_26_light_thumb.png",
-      "full": "爹的铃儿响叮当闷闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "拂页蝶の小熊",
-      "file": "陪小熊度过漫长时光-融合底.bdi",
-      "thumb": "陪小熊度过漫长时光-融合底.bdi_py_26_default_thumb.png",
-      "full": "陪小熊度过漫长时光-融合底.bdi_py_26_default.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "拂页蝶の北国的初雪-苹果融合底.bdi",
-      "thumb": "拂页蝶の北国的初雪-苹果融合底.bdi_py_26_light_thumb.png",
-      "full": "拂页蝶の北国的初雪-苹果融合底.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的轻松平安夜",
-      "file": "爹的轻松平安夜.bdi",
-      "thumb": "爹的轻松平安夜.bdi_py_26_default_thumb.png",
-      "full": "爹的轻松平安夜.bdi_py_26_default.png"
-    },
     {
       "name": "爹的铃儿响叮当（脆脆）",
       "file": "爹的铃儿响叮当脆脆.bds",
@@ -74,6 +38,42 @@
       "file": "爹的轻松平安夜.bds",
       "thumb": "爹的轻松平安夜.bds_py_26_default_thumb.png",
       "full": "爹的轻松平安夜.bds_py_26_default.png"
+    },
+    {
+      "name": "拂页蝶の没擦的黑板",
+      "file": "拂页蝶の没擦的黑板-弧形底.bdi",
+      "thumb": "拂页蝶の没擦的黑板-弧形底.bdi_py_26_default_thumb.png",
+      "full": "拂页蝶の没擦的黑板-弧形底.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的铃儿响叮当（脆脆）",
+      "file": "爹的铃儿响叮当脆脆.bdi",
+      "thumb": "爹的铃儿响叮当脆脆.bdi_py_26_light_thumb.png",
+      "full": "爹的铃儿响叮当脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的铃儿响叮当（闷闷）",
+      "file": "爹的铃儿响叮当闷闷.bdi",
+      "thumb": "爹的铃儿响叮当闷闷.bdi_py_26_light_thumb.png",
+      "full": "爹的铃儿响叮当闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "拂页蝶の小熊",
+      "file": "陪小熊度过漫长时光-融合底.bdi",
+      "thumb": "陪小熊度过漫长时光-融合底.bdi_py_26_default_thumb.png",
+      "full": "陪小熊度过漫长时光-融合底.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "拂页蝶の北国的初雪-苹果融合底.bdi",
+      "thumb": "拂页蝶の北国的初雪-苹果融合底.bdi_py_26_light_thumb.png",
+      "full": "拂页蝶の北国的初雪-苹果融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的轻松平安夜",
+      "file": "爹的轻松平安夜.bdi",
+      "thumb": "爹的轻松平安夜.bdi_py_26_default_thumb.png",
+      "full": "爹的轻松平安夜.bdi_py_26_default.png"
     }
   ]
 }

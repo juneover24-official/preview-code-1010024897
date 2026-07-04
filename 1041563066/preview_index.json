@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1041563066",
-  "updated_at": "2026-04-23T15:52:36.660258",
+  "updated_at": "2026-07-04T12:31:37+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -164,6 +164,12 @@
       "file": "拂页蝶の缚光小动效1.bds",
       "thumb": "拂页蝶の缚光小动效1.bds_py_26_light_thumb.png",
       "full": "拂页蝶の缚光小动效1.bds_py_26_light.png"
+    },
+    {
+      "name": "拂页蝶の塞壬Siren",
+      "file": "拂页蝶の塞壬Siren.bds",
+      "thumb": "拂页蝶の塞壬Siren.bds_py_26_light_thumb.png",
+      "full": "拂页蝶の塞壬Siren.bds_py_26_light_thumb.png"
     }
   ]
 }

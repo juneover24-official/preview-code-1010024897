@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1045398702",
-  "updated_at": "2026-07-04T12:28:52+00:00",
+  "updated_at": "2026-07-09T09:46:55+00:00",
   "skins": [
     {
       "name": "拂页蝶の塞壬Siren",
@@ -20,6 +20,12 @@
       "file": "拂页蝶の塞壬Siren.bds",
       "thumb": "拂页蝶の塞壬Siren.bds_py_26_light_thumb.png",
       "full": "拂页蝶の塞壬Siren.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "拂页蝶の塞壬Siren-常规版",
+      "file": "拂页蝶の塞壬Srien-常规.bdi",
+      "thumb": "拂页蝶の塞壬Srien-常规.bdi_py_26_light_thumb.png",
+      "full": "拂页蝶の塞壬Srien-常规.bdi_py_26_light_thumb.png"
     }
   ]
 }

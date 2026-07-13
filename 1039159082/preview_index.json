@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1039159082",
-  "updated_at": "2026-07-13T14:20:55+00:00",
+  "updated_at": "2026-07-13T14:22:40+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -236,6 +236,12 @@
       "file": "拂页蝶の熔辉Fuslume银版小动效.bds",
       "thumb": "拂页蝶の熔辉Fuslume银版小动效.bds_py_26_light_thumb.png",
       "full": "拂页蝶の熔辉Fuslume银版小动效.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "拂页蝶の熔辉Fuslume-金版",
+      "file": "拂页蝶の熔辉Fuslume金版脆音.bdi",
+      "thumb": "拂页蝶の熔辉Fuslume金版脆音.bdi_py_26_light_thumb.png",
+      "full": "拂页蝶の熔辉Fuslume金版脆音.bdi_py_26_light_thumb.png"
     }
   ]
 }

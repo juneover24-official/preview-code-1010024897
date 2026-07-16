@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1039159082",
-  "updated_at": "2026-07-16T14:16:10+00:00",
+  "updated_at": "2026-07-16T14:17:12+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -290,6 +290,12 @@
       "file": "拂页蝶の花园画报-水滴脆音.bds",
       "thumb": "拂页蝶の花园画报-水滴脆音.bds_py_26_light_thumb.png",
       "full": "拂页蝶の花园画报-水滴脆音.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "拂页蝶の花园画报-水滴脆音",
+      "file": "拂页蝶の花园画报-水滴脆音.bdi",
+      "thumb": "拂页蝶の花园画报-水滴脆音.bdi_py_26_light_thumb.png",
+      "full": "拂页蝶の花园画报-水滴脆音.bdi_py_26_light_thumb.png"
     }
   ]
 }

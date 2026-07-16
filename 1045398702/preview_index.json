@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1045398702",
-  "updated_at": "2026-07-16T13:11:44+00:00",
+  "updated_at": "2026-07-16T14:15:32+00:00",
   "skins": [
     {
       "name": "拂页蝶の塞壬Siren",
@@ -50,6 +50,12 @@
       "file": "拂页蝶の花园画报-麻将音.bds",
       "thumb": "拂页蝶の花园画报-麻将音.bds_py_26_light_thumb.png",
       "full": "拂页蝶の花园画报-麻将音.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "拂页蝶の花园画报-麻将音",
+      "file": "拂页蝶の花园画报-麻将音.bdi",
+      "thumb": "拂页蝶の花园画报-麻将音.bdi_py_26_light_thumb.png",
+      "full": "拂页蝶の花园画报-麻将音.bdi_py_26_light_thumb.png"
     }
   ]
 }

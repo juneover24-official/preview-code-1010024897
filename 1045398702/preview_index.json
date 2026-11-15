@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1045398702",
-  "updated_at": "2026-07-21T08:09:55+00:00",
+  "updated_at": "2026-11-15T05:38:14+00:00",
   "skins": [
     {
       "name": "拂页蝶の塞壬Siren",
@@ -80,6 +80,13 @@
       "file": "拂页蝶の花园画报-水滴脆音.bdi",
       "thumb": "拂页蝶の花园画报-水滴脆音.bdi_py_26_light_thumb.png",
       "full": "拂页蝶の花园画报-水滴脆音.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "拂页蝶の章鱼猪",
+      "file": "拂页蝶の章鱼猪②彩底.bds",
+      "thumb": "拂页蝶の章鱼猪②彩底.bds_py_26_light_thumb.png",
+      "full": "拂页蝶の章鱼猪②彩底.bds_py_26_light_thumb.png",
+      "file_id": "315d21a0a2d634e9312aae02da585e4d"
     }
   ]
 }

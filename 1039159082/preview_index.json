@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1039159082",
-  "updated_at": "2026-07-16T14:48:47+00:00",
+  "updated_at": "2026-11-16T12:44:45+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -320,6 +320,13 @@
       "file": "拂页蝶の花园画报-水滴脆音.bdi",
       "thumb": "拂页蝶の花园画报-水滴脆音.bdi_py_26_light_thumb.png",
       "full": "拂页蝶の花园画报-水滴脆音.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "拂页蝶の章鱼猪",
+      "file": "拂页蝶の章鱼猪②弧形底.bdi",
+      "thumb": "拂页蝶の章鱼猪②弧形底.bdi_py_26_light_thumb.png",
+      "full": "拂页蝶の章鱼猪②弧形底.bdi_py_26_light_thumb.png",
+      "file_id": "4ac29f4160b0732112aa94e49dbbb0bd"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1041563066",
-  "updated_at": "2026-11-18T20:59:51+00:00",
+  "updated_at": "2026-11-18T21:00:23+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -277,6 +277,13 @@
       "thumb": "拂页蝶の章鱼猪②彩底.bdi_py_26_light_thumb.png",
       "full": "拂页蝶の章鱼猪②彩底.bdi_py_26_light_thumb.png",
       "file_id": "bc56f742175baee1e35306b4ea958bbf"
+    },
+    {
+      "name": "拂页蝶の章鱼猪",
+      "file": "拂页蝶の章鱼猪①彩底.bdi",
+      "thumb": "拂页蝶の章鱼猪①彩底.bdi_py_26_light_thumb.png",
+      "full": "拂页蝶の章鱼猪①彩底.bdi_py_26_light_thumb.png",
+      "file_id": "1f27ea1e78973d16d3134f855805802b"
     }
   ]
 }

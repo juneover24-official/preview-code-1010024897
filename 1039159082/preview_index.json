@@ -1,7 +1,7 @@
 {
   "qq_number": "1010024897",
   "group_number": "1039159082",
-  "updated_at": "2026-11-24T15:36:15+00:00",
+  "updated_at": "2026-11-24T15:36:45+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -383,6 +383,13 @@
       "thumb": "拂页蝶の塞壬Srien常规无飘.bds_py_26_light_thumb.png",
       "full": "拂页蝶の塞壬Srien常规无飘.bds_py_26_light_thumb.png",
       "file_id": "8d275bd1ad01df68c2af5135b04b14bf"
+    },
+    {
+      "name": "拂页蝶の塞壬Siren",
+      "file": "拂页蝶の塞壬Siren无飘.bds",
+      "thumb": "拂页蝶の塞壬Siren无飘.bds_py_26_light_thumb.png",
+      "full": "拂页蝶の塞壬Siren无飘.bds_py_26_light_thumb.png",
+      "file_id": "c573afdf86206c7c464f0db9cd6aa452"
     }
   ]
 }
